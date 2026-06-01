@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CoranWarchApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+87827173ac94a21cf2cede7e4c8c84274088889e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+8c30dbcf15deeb5d1392c9bf9fad4976cdd98f53")]
 [assembly: System.Reflection.AssemblyProductAttribute("CoranWarchApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CoranWarchApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
